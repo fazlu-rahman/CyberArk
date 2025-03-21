@@ -1,3 +1,5 @@
+**Approve CyberArk Dual Control Requests through email**
+
 **Introduction**
 
 The CyberArk Dual Control functionality let users raise connection/password access request which will then goes to approval from the approvers mentioned in the safe.
