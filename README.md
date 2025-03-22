@@ -1,4 +1,4 @@
-**Approve CyberArk Dual Control Requests through email**
+# Approve CyberArk Dual Control Requests through email
 
 **Introduction**
 
